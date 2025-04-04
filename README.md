@@ -1,6 +1,7 @@
 # 😒Abbos Khamidov
 
 **`Data Analyst | Science (Engineer/BackendDev/Creator)`**
+
 I dive deep into data science, analytics, and backend development, helping businesses make data-driven decisions and optimize their products. My expertise spans SQL, BigQuery, and database architecture, along with building scalable web applications and backend solutions.
 
 📊 What I do:
